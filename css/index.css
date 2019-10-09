@@ -6,3 +6,7 @@ body {
 .logga {
     font-size: 1.5em;
 }
+
+img {
+    width: 100%;
+}
